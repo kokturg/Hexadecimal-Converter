@@ -1,0 +1,4 @@
+Open command prompt and enter
+set path=%path%;C:\Program Files\Java\jdk1.8.0_51\bin
+javac HexDec_Converter.java
+java HexDec_Converter -i input.txt -o output.txt
